@@ -598,7 +598,7 @@ async def get_thumb(
     _eq_bars(draw, PAD, EQ_Y, n=14)
 
     # ▸ Branding
-    brand = "♪ @nthg_xbot"
+    brand = "♪ 𝑵𝒐𝒕𝒉𝒊𝒏𝒈 𝑴𝒖𝒔𝒊𝒄 "
     f_br  = _font(20, bold=False)
     bw_px = _text_width(draw, brand, f_br)
     draw.text(
